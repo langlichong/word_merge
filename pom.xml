@@ -102,6 +102,12 @@
         </dependency>
         <!-- doc4j 合并 doc  end -->
 
+        <!-- docx 2 pdf -->
+         <dependency>
+                  <groupId>fr.opensagres.xdocreport</groupId>
+                  <artifactId>org.apache.poi.xwpf.converter.pdf</artifactId>
+                  <version>1.0.0</version>
+         </dependency>
 
     </dependencies>
 
